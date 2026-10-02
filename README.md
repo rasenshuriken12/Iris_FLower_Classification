@@ -115,6 +115,10 @@ iris-flower-classification/
     └── run_inference.py
 ```
 
+## 📤 Visuals 
+
+![image1](assets/images/Iris-Parameters.png)
+![image2](assets/images/Iris-Prediction.png)
 
 ## 📝 License
 MIT License — see LICENSE for details.
